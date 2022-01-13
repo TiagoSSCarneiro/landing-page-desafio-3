@@ -1,0 +1,62 @@
+@media (max-width: 1015px) {
+   
+}
+
+@media (max-width: 889px) {
+    .formulario .contato,.mensagem,.botao-footer {
+        width: 70%;
+    
+    }
+}
+
+
+
+@media (max-width: 741px) {
+    .cabecalho {
+        height: 700px;
+        width: 100%;
+    }
+
+    .formulario .contato,.mensagem,.botao-footer {
+        width: 70%;
+          
+    }
+
+}
+
+@media (max-width: 414px) {
+
+    .cabecalho {
+        height: 800px;
+          
+    }
+    .cabecalho .texto {
+        padding-left: 3%;
+        margin-top: 10%;
+        
+    }
+   .image-header img {
+      width: 300px;
+      margin-bottom: 50%;
+      
+   }
+
+   .card {
+       margin: 5px;
+   }
+
+   .rodape {
+        display: block;
+        width: 100%;
+       
+   }
+
+   .formulario .contato,.mensagem,.botao-footer {
+       width: 80%;
+       
+      
+
+   }
+    
+}
+
