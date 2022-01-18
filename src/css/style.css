@@ -93,6 +93,7 @@ body {
     margin-top: 50px;
     margin: 50px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    transition: 0.2s ease-in-out;
     
 } 
 
@@ -138,7 +139,7 @@ body {
 
 .cards:hover {
      transform: scale(1.1);
-     transition: 0.2s ease-in-out;
+     
  } 
 
 .conteudo p {
