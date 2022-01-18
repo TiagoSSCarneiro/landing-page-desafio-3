@@ -136,6 +136,11 @@ body {
 
 }
 
+.cards:hover {
+     transform: scale(1.1);
+     transition: 0.2s ease-in-out;
+ } 
+
 .conteudo p {
     font-family: "lato";
     color: #555555;
